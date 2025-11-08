@@ -1,0 +1,81 @@
+<hotel>
+    <C_hotel category="5star">
+        <title> Movin Pick</title>
+            <room> <roomtype> Single</roomtype>
+                         <price> 100K</price>
+            </room>
+            <room> <roomtype> Double </roomtype>
+                         <price> 150K</price>
+            </room>                
+                    <description> sky is the limit </description>
+                        <url> https://movenpick.accor.com/ </url>
+    </C_hotel>
+     <C_hotel category="5star">
+        <title> Kigali Golf</title>
+            <room> <roomtype> Single</roomtype>
+                         <price> 150K</price>
+            </room>
+            <room> <roomtype> Double </roomtype>
+                         <price> 250K</price>
+            </room> 
+                <price> 200K</price>
+                    <description> ping pong the ball </description>
+                         <url> https://kigaligolf.rw/ </url>
+    </C_hotel>
+    <C_hotel category="5star">
+        <title> Serenhotel</title>
+            <room> Double </room>
+                <price> 210K</price>
+                    <description> seal the view </description>
+                         <url> www.serenahotels.com </url>  
+    </C_hotel>
+      <C_hotel category="4star">
+        <title> peace view hotel</title>
+            <room> Single </room>
+                <price> 210K</price>
+                    <description> peace is the key</description>
+                         <url> www.serenahotels.com </url> 
+    </C_hotel>
+    <C_hotel category="4star">
+        <title> Mariothotel</title>
+            <room> Double </room>
+                <price> 300K</price>
+                    <description> meal the Food </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+    <C_hotel category="4star">
+        <title> Radisson Blue</title>
+            <room> Single </room>
+                <price> 300K</price>
+                    <description> Radi is the Key </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+    <C_hotel category="3star">
+        <title> Radi Blue hotel</title>
+            <room> Single </room>
+                <price> 300K</price>
+                    <description> Radi is the Key </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+    <C_hotel category="3star">
+        <title> quit corner </title>
+            <room> Single </room>
+                <price> 300K</price>
+                    <description> Radi is the Key </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+    <C_hotel category="2star">
+        <title> indabo cafe </title>
+            <room> Single </room>
+                <price> 300K</price>
+                    <description> Radi is the Key </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+    <C_hotel category="2star">
+        <title> kiyovu</title>
+            <room> Single </room>
+                <price> 300K</price>
+                    <description> Radi is the Key </description>
+                         <url> www.marriott.com </url> 
+    </C_hotel>
+</hotel>
